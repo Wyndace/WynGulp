@@ -1,3 +1,3 @@
-# WynWebKit - Wyndace's Web Development Kit
+# HalfDeal Weblayout Starter
 
 Enjoy this ;)
